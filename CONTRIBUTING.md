@@ -58,4 +58,4 @@ git pull origin develop
 git branch -d feature/chat-ui
 ```
 
-📌 **Now, the new feature is merged into `develop` and ready for testing!**
+📌 **Now, the new feature is merged into `develop` and ready for testing.**
